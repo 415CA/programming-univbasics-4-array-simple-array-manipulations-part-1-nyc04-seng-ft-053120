@@ -1,4 +1,4 @@
-arguement = 2
+$arguement = 2
 
 def using_push(array, string)
   array.push(string)
